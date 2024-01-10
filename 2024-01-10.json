@@ -1,0 +1,26 @@
+{
+  "name": "Tyler Barber",
+  "age": 61,
+  "address": {
+    "street": "Wocner Point",
+    "city": "Sepkonki",
+    "state": "NM",
+    "zip": "04153"
+  },
+  "contact": {
+    "phone": "(878) 806-4616",
+    "servicePhone": "800437776"
+  },
+  "birthday": "1980-04-08T10:05:28.765Z",
+  "ip": "114.185.164.176",
+  "foo": "bar",
+  "profile": {
+    "about": "Guhetip uwomu jaro warorul ilo jaceg hot ilooto vakkiama naju uhugav jepaoh okmu vo. Lugapal cahag ma kebjaw eruboc daf piruzpod fudehopo rudcab deg ruhaz bakutsen ognug ahupe fow. Vuiba jo libup kafoweno ehgimfu rufteno tomejek bi jigbeh nuokeami roaje roojetuk ikafu zedag nafak sejocow nevo.",
+    "bio": "Surjo sasvoru wowacmo vigep nirawwa datev ufpofiw gaz da boj gatbit ichecan pabov si wineto isivum. Nota buccum cukab lerimo cej lo ilo ze vohaw ih mom zi zin ezsikacu. Se nig didmif cuun icwiif pat owunibut kanebi wepoiha uga dadniun heekufo gewkalu bijopgod cab omoehone ef."
+  },
+  "apiKey": "ab93258b879f643060f5a9b81cc6a5daec4c42706e826c71e1b14200eb2c9c56",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}
