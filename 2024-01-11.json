@@ -1,0 +1,26 @@
+{
+  "name": "Landon Munoz",
+  "age": 22,
+  "address": {
+    "street": "Weri Circle",
+    "city": "Upuduor",
+    "state": "IL",
+    "zip": "35552"
+  },
+  "contact": {
+    "phone": "(665) 901-2575",
+    "servicePhone": "800272535"
+  },
+  "birthday": "1990-03-10T11:43:09.974Z",
+  "ip": "60.134.253.170",
+  "foo": "bar",
+  "profile": {
+    "about": "De cozzusci kiobtug noome gipnasjih dahhir ruj isetuco as kanujziv af pin ebbipdoh ota. Udmi soabane gu bapo oge eclawga rorit boz finnuznov elekav piwuka ta. Okuhi do daf tup kizi mas ce ivnaceh ok lemkeiz coh nu kafujibas.",
+    "bio": "Kenagjos har age kesogsa hevaklo eri runolo ovomepkoh malo wohigek upruba neihualo ma. Avan ubme bidhiszet bob mipir as zahuj lu wenol nu fubsijsam pacvijip ja lavwajer cacpa filmes kepo toem. Ati ge ba ak wi no herawod accaofe zulroso miguk se naharru guri pi gonavi covtah he. Ujo tog zul cas nogwefi poheno ohamab nakbictan meme hotuz ro lalamovud ivezunah zuze cef mo."
+  },
+  "apiKey": "9ba013637858343a7f5b02932bab4163dcacb50ee55a5400f6ef3aa79aa3b47c",
+  "currency": {
+    "code": "JOD",
+    "name": "Jordan Dinar"
+  }
+}
