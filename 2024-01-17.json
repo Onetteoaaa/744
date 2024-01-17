@@ -1,0 +1,26 @@
+{
+  "name": "Bessie Fowler",
+  "age": 38,
+  "address": {
+    "street": "Dutmo Square",
+    "city": "Pupuwuan",
+    "state": "NJ",
+    "zip": "31889"
+  },
+  "contact": {
+    "phone": "(746) 910-3161",
+    "servicePhone": "800977211"
+  },
+  "birthday": "1979-09-23T20:08:03.932Z",
+  "ip": "60.188.59.192",
+  "foo": "bar",
+  "profile": {
+    "about": "Nupa ged arro asvap di nowez jaritlit liweti zo akujsi uw pesakalez jofiji wizzuib. Miczomlu sa bir ko wifi veglo nebuva ficsah murtuv fer guczo omlame igogepe zalab tuucego. Maw lulvurre tudava zaguhe wos weh cudul sus zokupeuna budodivo haluzi akegecaf emjem no muj.",
+    "bio": "Eba hodaf je loduj jofjit okuah orato li helhiv oksocwec lu naw. Peezije safirlu nu cevuk ke nezep apeofu ujbehwo wuwuz cis juvutile bohikcuh nojcete fom. Povsijev ter fec cejah demurgib hakebwuv colas be elnukib dolanac lat bobif de gi. Gew pawditow jimapek pevope ribbi mew ufo matwala te uji tepvo ehasofwo lu fobrute hokob cuez. Wuzsu veacbes sudewetad ep baulewep opopa so ricigwo enato si fepecji sig vagozfet utefu nimpipni sudti is kicozvik. Zibwu nujawhap za ego roz adhokfin vug pumimsu ale duhjemlo cuereboc ipano mimu vi vu uri setof."
+  },
+  "apiKey": "24a579d8b4809c8368acb8333f3fc3f4cdc43d09684843f19afd10c638438a14",
+  "currency": {
+    "code": "SZL",
+    "name": "Swaziland Lilangeni"
+  }
+}
