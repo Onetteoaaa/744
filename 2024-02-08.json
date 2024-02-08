@@ -1,0 +1,26 @@
+{
+  "name": "Jackson Olson",
+  "age": 31,
+  "address": {
+    "street": "Alina Lane",
+    "city": "Tozwuli",
+    "state": "IN",
+    "zip": "59625"
+  },
+  "contact": {
+    "phone": "(266) 230-2692",
+    "servicePhone": "800414221"
+  },
+  "birthday": "1964-07-16T21:31:10.622Z",
+  "ip": "187.86.83.23",
+  "foo": "bar",
+  "profile": {
+    "about": "Uzhijin codubar voksic takgiovi zacuno anica uwpacem vozo pap nojmezef pudaoca foli. Ne kugof ket to kicazdok ujjon tedidrep wi geva ucumariz vuam iwiji uwkelmap narirgib utokorzek. Tindo gaug ahebat dez low os waddi nittiw parra hako laudog ekuse raipedu.",
+    "bio": "Ag wu rirsiz ubjih at ba sazugo ej lileiz ho ug un zogzujvoh tungamo radtahdi. Hikojo woktew lote uf be garih tom ju ume hu vuhrug gov hor pob anubuuha newumgo kug kolepus. Esomopwov riz mizdotlab dah anteasi taabore ufegowus versujbo alesa hetac vugimej zuwre siovfi muzik pel dirinmav gu."
+  },
+  "apiKey": "0ffc578502a52035bfa4125cb0ea3baa24bfc71bf5ee8838e4a88258b7dfc542",
+  "currency": {
+    "code": "YER",
+    "name": "Yemen Rial"
+  }
+}
