@@ -1,0 +1,26 @@
+{
+  "name": "Mary Gomez",
+  "age": 46,
+  "address": {
+    "street": "Hizo Square",
+    "city": "Dijiir",
+    "state": "NY",
+    "zip": "09494"
+  },
+  "contact": {
+    "phone": "(932) 960-9566",
+    "servicePhone": "800475895"
+  },
+  "birthday": "2005-02-28T17:50:32.372Z",
+  "ip": "213.117.1.190",
+  "foo": "bar",
+  "profile": {
+    "about": "Zojra ipkuwu evearo wumca wiire astim dup muhaw ejisuwken eggaf omiduose daro wozucaj. Marfif tor kingefri ledgow puf juwtuced bowdejin tomapoon ibvuguki goh okmo je lokog dewgepe uzizet det. Soume hobe ifu apasugo sa be ejuaki umetuz go fiwwac bikge vi sedeku.",
+    "bio": "Loegu du uzeni kati weliv ufkiw mojbo tatoca fivsisir la rezarwer ra gockowsug bolobi. Topul lamhez luguoca obudu kaze ek juvumos ganu ukice hijot acgev omeze love vielar. Fubaic jet mil viwnot ubu bewmovmep guh ket hib ehe fib ivamos vaeno bijmazu cadac dadupsu. Vakoni eb vuiwazap ka podon lifedna goli ige oh igra imsilmo kol merpunam wagos. Huvo ri wir vo buzom veoj botovejer bos ibomi lujah fesmop nic."
+  },
+  "apiKey": "d06adc20ead46c4bffc5be7b6d1ac9ed2f684fa1aa0d646bcba9fa8e4d5e1913",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
