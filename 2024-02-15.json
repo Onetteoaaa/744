@@ -1,0 +1,26 @@
+{
+  "name": "Mitchell Reed",
+  "age": 35,
+  "address": {
+    "street": "Ursej Mill",
+    "city": "Tezalkus",
+    "state": "AZ",
+    "zip": "32669"
+  },
+  "contact": {
+    "phone": "(234) 640-3732",
+    "servicePhone": "800197817"
+  },
+  "birthday": "1962-09-10T14:40:52.211Z",
+  "ip": "51.243.47.192",
+  "foo": "bar",
+  "profile": {
+    "about": "Hak bobgupa logbuphe duj gisertu sauwraf otzev vod lo simgo ro zocdev. Cit hunpehci pucuv ah tawocane dene toamho damowolag patfafoc somifazu so itnebni ezuawu cik fi enikuha cahus tejgew. Irgufzu ef gu obuveli tinazpu pu gi zucve menceme ru ku dioda duvenin si sultoma veowo.",
+    "bio": "Nu le ige eknochi zeljezit mojot retvoz duv kazsopguj beekugu fewvudgu ijolihuc zuljovni gifpob wahbakho injar. Kaabu sok zo nillep taguhwo hesi kih fo ig vucov ew gujonwis omuut. Ofdaw tu sinite bi fapwam zaw jehto dapide lif fonuuke cakfopote se cedkacbud jiw miwer iwriszah ag."
+  },
+  "apiKey": "3ea18a7d1a7026c639a6a9aca0f1c660beb32590d8949e8adeab777826d7b37d",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
