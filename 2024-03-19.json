@@ -1,0 +1,26 @@
+{
+  "name": "Barbara Hubbard",
+  "age": 34,
+  "address": {
+    "street": "Amumi Ridge",
+    "city": "Porecu",
+    "state": "CA",
+    "zip": "18574"
+  },
+  "contact": {
+    "phone": "(451) 890-4371",
+    "servicePhone": "800212274"
+  },
+  "birthday": "1979-01-25T21:49:12.846Z",
+  "ip": "201.134.89.72",
+  "foo": "bar",
+  "profile": {
+    "about": "Mijwog fuzzukko libgu nohuw reje hacalro ozu zirwu ifu huedfol atiumafor weltec. Vo ah li weugtow todaeh sawvo ihupap papa tegef jatforro ri vokvu ned an suzra nellugte fu. Sa kilazgi fe badi gebihba duburikev aptuas kes cacawzel lonalho kuh omisi.",
+    "bio": "Difofe imajomab onouj betun petvi wezu zufe boekadup aku jolicgu ucjeb lekiw jubad udutusrin ufiweeca hew pugogson. Ugzuuj it pomomad gone nulvojro pep efpoba vezu oweuhojig anisgi udoje lumej dojotwak. Hetob kompo vinlag gap ganumjo ad enoheb ezunoje ahilaszop pevura jacvasro vi awipo ziubiiv rec habmejot. Ikebis cevatnah wu gawzufus isiozu kep gat deduge teuzgol puwac zojuw pow nu poj ubidehef tizun vo vuzgam. Avuuk nihet ez iveviike hioco jiwpe mefvajit fugmojet ezogabe pu bujse di. Cekaji jedujba ulgubep dij kakek wacga mombifgap amufoni lafedwo solivweh udeoto teabopo to ke jobecbil."
+  },
+  "apiKey": "d727978b09269bbf701aafcbe5fde8dd28893130749e190ef32d5e9d7a887bbd",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}
