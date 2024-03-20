@@ -1,0 +1,26 @@
+{
+  "name": "Nellie Thomas",
+  "age": 32,
+  "address": {
+    "street": "Vumor Pass",
+    "city": "Tenpisucu",
+    "state": "ID",
+    "zip": "54154"
+  },
+  "contact": {
+    "phone": "(860) 436-8788",
+    "servicePhone": "800616589"
+  },
+  "birthday": "1967-11-28T16:07:44.696Z",
+  "ip": "66.62.210.192",
+  "foo": "bar",
+  "profile": {
+    "about": "Ropep ni eluwa inhirta nuzi wahumi pet bahijuk we gim gibeh cupipsij usareba. Buno wa gar gu gutoal oju amatus bektar udojunida sifdovros lesduw tahafcu po pe aco. Fe zoflu duje renonku tejwewe law fi biwe cuhnoj jutwafrud urusikjo ig huhefdel.",
+    "bio": "Wizdaz lin jipto su fab jig objuuge tighe cuar huhdogon loronmoz wuk wavaz gituc hefol be zetcub gosku. Piku pug hifaw noohi tibumfeh er ju gi kol me ku ossocbu elsowe zegbil befum zausioge jeh jingu. Nu pudehuf tan resrakwa tohleg usepulo rew lahana galesamib harmu ruskog wip evegod nuupoep sajabar ladillug."
+  },
+  "apiKey": "993314b29c69de830e533a5765e4bff42491e5b0b0dbfd1e63773212b6c0abfd",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
