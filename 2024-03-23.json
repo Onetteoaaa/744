@@ -1,0 +1,26 @@
+{
+  "name": "Howard Thompson",
+  "age": 35,
+  "address": {
+    "street": "Dalfot Highway",
+    "city": "Foloin",
+    "state": "KS",
+    "zip": "56195"
+  },
+  "contact": {
+    "phone": "(545) 555-6421",
+    "servicePhone": "800365651"
+  },
+  "birthday": "1988-03-06T21:29:15.715Z",
+  "ip": "93.218.36.108",
+  "foo": "bar",
+  "profile": {
+    "about": "Wez vodow su loskubizo hi el jighef fi zukuna vah mireap bivedhe sibunon gudbud wor renuwru. Luj vobadvu vadi ot wa huwhifu tu gew totjaknu da dilac aliowi ki aha toceoka di. Siworwes midojto vorefad cumadunim avfiblap ladwumta gotpokta do ig ec nozub lazvaj eheac cakin facgu mu cok bire. Mar pidli cug zojhas op laut cikvi sic uz neos wuz fupvaos. Gic uta alomehoh lizubapa tamiihu kautona jak fi gal nugdiffe ol uzokinze. Koraddo kenojudu jefna noazbe ralujahe nobbufoz hak si itlemgut wolukpah jofa ri somtef jek wikul awneluj vug.",
+    "bio": "Hasaj siozi zosvozu zasoetu zezutbik goabnec rar fugnavtoc jozas fahefob nihecok pi owwevcu regmezoh uru rulowa foegor. Ownuwut ner adbug honi rod silbacig vah ome iki mawzonaf zagipa za pigvadu oboobibe beftijki ummiip. Janfurev awibu koni bes licrusik vo odmu us jac lesreru saufu ugu saf. Mamalref iju hutgilmi necinva cede nahdegta lommuc dosojwef wab viovnoc cojeb aki wetod rubzinde onahommif od hofim. Oru temwot nuziuwe ob timduf vidasulu wejbok lofso zes wabdekeli iwo dak lojem jino lujubigu. Tuz vik cor dorij ho nenonij zijej wek ci fohejzad sorne apo reksuje mic riw emoreg femijak lihu."
+  },
+  "apiKey": "d43b0e103a05fbbd9c17c5e9a958115d1be63b6e0d221a6b55720dbdf7461380",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
