@@ -1,0 +1,26 @@
+{
+  "name": "Rodney Carlson",
+  "age": 42,
+  "address": {
+    "street": "Zitwo Key",
+    "city": "Evelimset",
+    "state": "UT",
+    "zip": "73749"
+  },
+  "contact": {
+    "phone": "(336) 311-7481",
+    "servicePhone": "800954591"
+  },
+  "birthday": "1993-07-10T00:32:46.347Z",
+  "ip": "105.116.69.168",
+  "foo": "bar",
+  "profile": {
+    "about": "Ne huvgavwus moket ceh nor gi so nepabojo vidusuvot su resuhva otsel guzjud huoseri. Hurire regveco nutujtul ociwelgib vakajejiw tuc pir hafwo sez badba gicsoda toj ajbioh saw be. Mir gahov fudoz wupboc ecel vecrefize zehtad ocitu fofo for wiwjukis zup lele cuhve lu.",
+    "bio": "Nehruna lihuha pos hokemfip ga wamo poswitsul gadnafsi faz heruji me icvim pik. Weorpoz obogu sivew gipfuhfow nulucvup fe meewusil bobap wog nufkec kidnim ca dosihwe. Vecoc zalicon apulo vohhojpag mehmosuru tuho rof bul kir edsimzi onzu wukzuot besutul. Go coc pocimsa nan gajizsu vut wahroh ezno dejzi sinih sepbom jan."
+  },
+  "apiKey": "5f12239a2c0da91995e5e9e48d7d9cb310f761701534a6228bdc19231ada1921",
+  "currency": {
+    "code": "VUV",
+    "name": "Vanuatu Vatu"
+  }
+}
