@@ -1,0 +1,26 @@
+{
+  "name": "Juan Bryant",
+  "age": 56,
+  "address": {
+    "street": "Feslam Street",
+    "city": "Surreko",
+    "state": "AR",
+    "zip": "27735"
+  },
+  "contact": {
+    "phone": "(339) 513-7634",
+    "servicePhone": "800394339"
+  },
+  "birthday": "2002-03-17T12:39:56.228Z",
+  "ip": "118.56.233.147",
+  "foo": "bar",
+  "profile": {
+    "about": "Arihafe ceduhca ed gubep etacihu zibga uwepojku wabugmok fug su boupe wefro nidizaw jahhuun lecke. Mot wit lupafjiw ga cu ujilahjoj wu omo lozgahhu ravfaz ges hetcez povoj bicuw mi efo. Fel mi mihe rabil telnijup guf kemtawzo dazjezil zah cehazra izsoci ewoec vovojne it. Suhe nibros ic ocwunco enava sop hujalguz ve ur veni idavaboj ovi. Egci nuf mumezvo hajve sib kuj cep izeg gaw jak ze sedkaz vojlanit entuzza pozeago zigruuge.",
+    "bio": "Ho ibbu wuzek biuf sidzu alo jeoflu nu fu ti pofedav huesav. Ce gaurug ufzule cobe zasul gebejtih nufazbug fij kolwefwi hacu wafin vuihipu. Zuazgig sijrif wa otof imu olezituz ovwec aka rawtona pagdom fij he nahaze fen boz ceta aji ovwehet."
+  },
+  "apiKey": "1293affb32f891bf212518e51e7929205d6a345efa724fb096d7b776d91bd2e9",
+  "currency": {
+    "code": "GEL",
+    "name": "Georgia Lari"
+  }
+}
