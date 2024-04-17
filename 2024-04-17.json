@@ -1,0 +1,26 @@
+{
+  "name": "Edgar Warren",
+  "age": 32,
+  "address": {
+    "street": "Kimvu Avenue",
+    "city": "Kehoul",
+    "state": "AR",
+    "zip": "54846"
+  },
+  "contact": {
+    "phone": "(302) 978-1950",
+    "servicePhone": "800978534"
+  },
+  "birthday": "1967-10-03T13:51:45.718Z",
+  "ip": "186.191.107.204",
+  "foo": "bar",
+  "profile": {
+    "about": "Wakva sib ho wa ujahup jigite za ma jurabza bukij jepawgo muvnurvu fazol masiw. Leh nuf ku kufta ahugalod uj ikubob ni ma ri saovbi sutnowpe ejpoogi mizav mugtelleb ok wibo saptebak. Siketve heler pozo nujes vocu wouhpiw sihulta mogeg relmir uvilahij ebje id. Hettohin oduwirol ah ome pa calsenos inawelmov lahdibpok zotigepi monvapbo ofufod vompe hifcoteza rir aca. Cepdap bih gow vi lit lipoj commair hiwkika zohficu ajefizul evpo kova lubowe pavunja tewarpiv dizsono vatmu.",
+    "bio": "Vuti tikekme miwalu bidhob jenij uvbe bavda owese oboujote ubiinfol diuso feolu rouk pen agizele sop. Nup tiju guetlag nezsafic pekvimen capa veimru oviheuwo nehnegpi holsuk gevijho sa fakluka ve be ki. Ulo vefa ve ujudihud pubofow aturlab ralkuro mezatre mevtunku sivwi afi guz vet ka pipateupu ma igjebe. Da fiohuto rolim ceb gu tucawaf wufop bora potozuw puz ucumerufa foki echic ofzaf."
+  },
+  "apiKey": "3ff4365e507b5b4517c1bb848227f0b6efb560c8c7adbaf4d77b029e6a2486ea",
+  "currency": {
+    "code": "AED",
+    "name": "United Arab Emirates Dirham"
+  }
+}
